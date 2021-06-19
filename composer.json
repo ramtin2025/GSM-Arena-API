@@ -1,0 +1,29 @@
+{
+  "description": "GsmArena API",
+  "name": "fulgerx2007/gsmarena-api",
+  "keywords": [
+    "package",
+    "composer"
+  ],
+  "homepage": "https://packagist.org/",
+  "type": "project",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Andrian Iliev",
+      "email": "fulgerx2007@gmail.com",
+      "homepage": "https://github.com/FulgerX2007/GsmArena-API"
+    }
+  ],
+  "support": {
+    "email": "fulgerx2007@gmail.com"
+  },
+  "require": {
+    "php": ">=7.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "FulgerX2007\\": ""
+    }
+  }
+}
